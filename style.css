@@ -63,3 +63,12 @@ button{
 button:hover{
     scale: 1.1;
 }
+#app{
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+}
+main{
+    padding: 20px;
+}
+
